@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Juan Sebastian Velasco
-- @jsebastianvel
 - 👀 I’m interested in Analytics, Cryptocurrencies, Capital Markets, 
 - 🌱 I’m currently coursing and MsC in Analytical Intelligence
 - 💞️ I’m looking to collaborate on projects related to crypto or finance
